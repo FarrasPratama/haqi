@@ -94,53 +94,6 @@ p {
   position: absolute;
 }
 
-/* Features Section */
-
-.feature-title{
-  font-family: "Arima Madurai";
-  font-size: 2rem;
-  text-align: center;
-}
-
-.feature-txt{
-  font-size: 1.5rem;
-  line-height: 1.5;
-  text-align: right;
-}
-
-.feature3-img{
-  width: 25%;
-  position: absolute;
-  left: 300px;
-}
-
-.feature2-txt{
-  font-size: 1.5rem;
-  line-height: 1.5;
-  text-align: left;
-}
-
-#features {
-  position: relative;
-}
-
-.feature-title {
-  font-size: 1.5rem;
-}
-
-.feature-box {
-  padding: 4.5%;
-}
-
-.icon {
-  color: #ef8172;
-  margin-bottom: 1rem;
-}
-
-.icon:hover {
-  color: #ff4c68;
-}
-
 /* Testimonial Section */
 
 #testimonials {
