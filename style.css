@@ -199,9 +199,6 @@ p {
 .press-logo {
   color: #9d0191;
   text-align: center;
-  position: absolute;
-  bottom: 15%;
-  left: 37%;
   font-family: "Staatliches";
   font-size: 5rem;
   font-weight: medium;
