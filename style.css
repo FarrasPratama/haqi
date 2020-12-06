@@ -113,6 +113,15 @@ p {
 }
 
 .testimonial-text2, .normal-price {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  margin: 20px;
+  color: #cad315;
+  font-family: Atma;
+}
+
+.testimonial-text2-3, .normal-price {
   font-size: 2.5rem;
   line-height: 1.5;
   font-weight: bold;
